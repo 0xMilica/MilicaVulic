@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"><b>Hi, I’m Milica Vulić</b></h1>
 
-<!--
-**MilicaVulic/MilicaVulic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Developer relations engineer with years of hands-on Software Development experience, now turned to social aspect of web3 product building.<br/><br/>
+Zero-Knowledge proof enthusiast 👀 <br/
+Social butterfly 🦋<br /> 
+[![Linkedin Badge](https://img.shields.io/badge/-milicavulic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milica-vulic-007/)](https://www.linkedin.com/in/milica-vulic-007)
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilicaVulic" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/MilicaVulic/count.svg" />
+</p>
